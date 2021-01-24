@@ -1,0 +1,21 @@
+{
+    "item.dev.greg": "Gregory",
+    "block.dev.greg_block": "Gregory Block",
+
+    "item.dev.james": "James",
+    "item.dev.james_pickaxe": "James Pickaxe",
+    "block.dev.james_block": "James Block",
+
+    "item.dev.no": "Nope",
+    "block.dev.no_block": "No Block",
+    "item.dev.no_helmet": "Nope Helmet",
+    "item.dev.no_chestplate": "Nope Chestplate",
+    "item.dev.no_leggings": "Nope Leggings",
+    "item.dev.no_boots": "Nope Boots",
+
+    "block.dev.discombobulator_block": "Discombulator Block",
+    "block.dev.enhardener_block": "Enhardener Block",
+
+    "itemGroup.dev.general": "Gregtech 2"
+
+}

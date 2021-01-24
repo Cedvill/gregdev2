@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:smelting",
+    "ingredient": {
+        "item": "dev:greg_block"
+    },
+    "result": "dev:james",
+    "experience": 69,
+    "cookingtime": 200
+}

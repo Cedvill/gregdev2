@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "###",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "dev:greg"
+        }
+    },
+    "result": {
+        "item": "dev:greg_block",
+        "count": 1
+    }
+}

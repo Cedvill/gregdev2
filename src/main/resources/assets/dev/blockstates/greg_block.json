@@ -1,0 +1,5 @@
+{
+    "variants": {
+      "": { "model": "dev:block/greg_block" }
+    }
+  }

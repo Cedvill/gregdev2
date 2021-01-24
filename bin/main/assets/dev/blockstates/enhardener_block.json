@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "hardened=false": { "model": "dev:block/enhardener_block" },
+        "hardened=true": { "model": "dev:block/enhardener_block_hardened" }
+    }
+}
+

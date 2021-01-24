@@ -1,0 +1,44 @@
+{
+    "pools": [
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:item",
+            "name": "dev:no_block",
+            "functions": [
+              {
+                "function": "minecraft:set_count",
+                "count": 1
+              },
+              {
+                "function": "minecraft:set_lore",
+                "entity": "this",
+                "lore": [
+                  {
+                    "text": "Mined Through Progress and Hardship",
+                    "bold": true,
+                    "italic": true,
+                    "underlined": true,
+                    "strikethrough": false,
+                    "obfuscated": false,
+                    "clickEvent": {
+                      "action": "suggest_command",
+                      "value": "/kill @p"
+                    },
+                    "hoverEvent": {
+                      "action": "show_item",
+                      "contents": {
+                        "id": "dev:no",
+                        "count": 63
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }

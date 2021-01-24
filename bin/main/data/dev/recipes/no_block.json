@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:smelting",
+    "ingredient": {
+        "item": "dev:james_block"
+    },
+    "result": "dev:no_block",
+    "experience": 0.1,
+    "cookingtime": 40
+}

@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "DCD",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "dev:greg_block"
+        },
+        "D": {
+            "item": "dev:james"
+        },
+        "C": {
+            "item": "dev:no"
+        }
+    },
+    "result": {
+        "item": "dev:discombobulator_block",
+        "count": 1
+    }
+}
